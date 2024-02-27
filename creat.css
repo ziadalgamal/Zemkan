@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(8, 12, 21);
+    font-family: system-ui;
+}
+.sigin{
+   background: rgba(0, 0, 0, 0.589);
+    width: 30%;
+    height: 315px;
+    border-radius: 10px;
+    border: 2px solid rgb(184, 184, 184);
+    margin:auto;
+    position: absolute;
+    padding: 30px;
+    top: 115px;
+    left:440px;
+}
+.input-box{
+    margin: 8px 0;
+    width: 400px;
+    
+    
+}
+.data{ 
+    width: 100%;
+    height: 50px;
+    background: white;
+    border: 2.5px solid rgb(2, 43, 155);
+    font-size: 15px;
+    color:rgb(0, 0, 0);
+    border-radius: 30px;
+
+}
+.imgs{
+    margin: auto;
+    position: absolute;
+    top:15px;
+    left:30px;
+    width: 130px;
+    
+}
+.but{
+    border: none;
+    border-radius: 30px;
+    width: 150px;
+    height: 35px;
+    cursor: pointer;
+    position: absolute;
+    margin: auto;
+    top: 530px;
+    left: 590px;
+    font-size: 19px;
+    color: rgb(238, 231, 231);
+    background: rgb(233, 179 , 8);
+    
+}
+img{
+    width: 70px;
+    height: 80px;
+    border-radius:15px;
+    margin: auto;
+    position: absolute;
+    top: -55px;
+    left:190px;
+ }

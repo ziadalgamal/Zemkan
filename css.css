@@ -1,0 +1,76 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(8, 12, 21);
+    font-family: system-ui;
+  
+
+}
+h1{
+
+    color: white;
+    position: absolute;
+    margin: auto;
+    top: 250px;
+    left: 1100px;
+    font-size: 60px;
+
+}
+h2{
+
+    color: #11baf0;
+    font-size: 80px;
+    position: absolute;
+    margin: auto;
+    top: 230px;
+    left: 850px;
+}
+p{
+    position: absolute;
+    margin: auto;
+    color: white;
+    font-size: 25px;
+    left: 680px;
+    top: 350px;
+}
+header ul {
+    
+    position: absolute;
+    margin: auto;
+    top: 50px;
+    left: 780px;
+
+}
+
+ header ul li{
+
+    display: inline-block;
+    margin-right: 30px;
+
+}
+
+ul li a {
+
+    color: #090d18;
+    text-decoration: none;
+    background: #11baf0;
+    border: none;
+    border-radius: 15px;    
+    padding: 6px  10px;
+    
+}
+.but{
+    background: #11baf0;
+    border: none;
+    border-radius: 15px;    
+    padding: 6px  10px;
+    color: #090d18;
+    font-size: 20px;
+    
+    position: absolute;
+    margin: auto;
+    top: 500px;
+    left: 550px;
+}
+
+
